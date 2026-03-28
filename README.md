@@ -1,7 +1,8 @@
 # 🛒 Ecommerce Sales Dashboard
 
 ## Dashboard Preview
- 
+ <img width="883" height="490" alt="Screenshot 2026-03-28 214811" src="https://github.com/user-attachments/assets/a883d6c5-acd0-413b-9e8d-31f7a74233a9" />
+
 
 ## 📌 Project Overview
 This project analyses sales analysis using a real-world dataset. The objective is to evaluate
@@ -92,6 +93,7 @@ longitude,
 name
 
 ## 🎯 Problem Statement
+<img width="1139" height="561" alt="Screenshot 2026-03-28 220302" src="https://github.com/user-attachments/assets/af2f27e7-1b1d-4988-9cab-7b52c2b0c921" />
 
  
 
